@@ -1,0 +1,21 @@
+# Folders
+.dart_tool: Flutter e o Dart usam para armazenar informações temporárias, como caches de dependências, arquivos de saída de compilação e outras informações relacionadas às ferramentas de desenvolvimento
+.idea: arquivo de configuração IDE
+android: arquivos de configuração relacionados ao Android
+ios: arquivos de configuração relacionados ao IOS
+linux
+macos
+windows
+build: arquivos de build do Flutter para as plataformas: flutter build
+web
+lib: onde estará nosso projeto
+test
+
+# Files
+.gitignore: arquivos que devem ser ignorados pelo Git
+.metadata: Este arquivo é gerado pelo Flutter e é usado internamente para acompanhar as informações do projeto
+analysis_options.yaml: Este arquivo é usado para definir as regras de análise do Dart, recomedações de código, erros (LINT)
+flutter_application_1.iml: arquivo de configuração IDE
+pubspec.yaml: Definição de dependencias do projeto
+pubspec.lock: Especificação das dependencias instaladas pelo yaml
+README.md
